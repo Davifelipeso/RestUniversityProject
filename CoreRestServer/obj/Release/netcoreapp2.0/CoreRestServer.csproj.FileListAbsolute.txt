@@ -1,0 +1,11 @@
+C:\Users\Davi Felipe\source\repos\CoreRestServer\CoreRestServer\bin\Release\netcoreapp2.0\CoreRestServer.deps.json
+C:\Users\Davi Felipe\source\repos\CoreRestServer\CoreRestServer\bin\Release\netcoreapp2.0\CoreRestServer.runtimeconfig.json
+C:\Users\Davi Felipe\source\repos\CoreRestServer\CoreRestServer\bin\Release\netcoreapp2.0\CoreRestServer.runtimeconfig.dev.json
+C:\Users\Davi Felipe\source\repos\CoreRestServer\CoreRestServer\bin\Release\netcoreapp2.0\CoreRestServer.dll
+C:\Users\Davi Felipe\source\repos\CoreRestServer\CoreRestServer\bin\Release\netcoreapp2.0\CoreRestServer.pdb
+C:\Users\Davi Felipe\source\repos\CoreRestServer\CoreRestServer\obj\Release\netcoreapp2.0\CoreRestServer.csproj.CoreCompileInputs.cache
+C:\Users\Davi Felipe\source\repos\CoreRestServer\CoreRestServer\obj\Release\netcoreapp2.0\CoreRestServer.AssemblyInfoInputs.cache
+C:\Users\Davi Felipe\source\repos\CoreRestServer\CoreRestServer\obj\Release\netcoreapp2.0\CoreRestServer.AssemblyInfo.cs
+C:\Users\Davi Felipe\source\repos\CoreRestServer\CoreRestServer\obj\Release\netcoreapp2.0\CoreRestServer.dll
+C:\Users\Davi Felipe\source\repos\CoreRestServer\CoreRestServer\obj\Release\netcoreapp2.0\CoreRestServer.pdb
+C:\Users\Davi Felipe\source\repos\CoreRestServer\CoreRestServer\obj\Release\netcoreapp2.0\CoreRestServer.csprojAssemblyReference.cache
